@@ -9,7 +9,7 @@
 
 **Stop guessing. Start building accessible designs that everyone can use.**
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🤝 Contribute](#contributing) • [🐛 Report Bug](https://github.com/yourusername/contrast-buddy/issues)
+[🚀 Live Demo]([](https://thecolorcontrastchecker.com) • [📖 Documentation](#features) • [🤝 Contribute](#contributing) • [🐛 Report Bug](https://github.com/yourusername/contrast-buddy/issues)
 
 </div>
 
